@@ -1,0 +1,59 @@
+.s{
+    width: 60%;
+    margin:0px 0px 0px 70px ;
+}
+#season1 td,tr,th{
+border: 1px solid black;
+}
+#season1 td{
+    text-align: center;
+}
+#season1{
+    border-collapse: collapse;
+    width: 95%;
+    margin: 0px 0px 0px 70px;
+}
+#season1 th{
+    background-color:#BD8D68;
+}
+#season1 a{
+    text-decoration: none;
+}
+#season2 td,th,tr{
+    border: 1px solid black;
+    block-size: 11mm;
+}
+#season2{
+    border-collapse: collapse;
+    width: 95%;
+    margin: 0px 0px 0px 70px;
+}
+#season2 th{
+    background-color:#004B49 ;
+    color: white;
+}
+#season2 td{
+    text-align: center;
+}
+#season2 a{
+    text-decoration: none;
+}
+#season3 td,th,tr{
+    border: 1px solid black;
+    block-size: 11mm;
+}
+#season3{
+    border-collapse: collapse;
+    width: 95%;
+    margin: 0px 0px 0px 70px;
+}
+#season3 th{
+    background-color:#5A400F ;
+    color: white;
+}
+#season3 td{
+    text-align: center;
+}
+#season a{
+    text-decoration: none;
+}
